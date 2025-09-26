@@ -6,21 +6,21 @@
 {
   "keys": [
     {
-      "created_at": "2025-09-22T18:34:13Z",
-      "description": "ad-hoc dev testing",
-      "id": "ak_334AcxQh39vjMyFv6d6MaaskAax",
-      "metadata": "{\"environment\":\"dev\"}",
-      "owner_id": "usr_334AYsIkmQjz2Hz8mziqZ1kc26P",
+      "created_at": "2025-09-26T10:07:21Z",
+      "description": "api key for example generation",
+      "id": "ak_33ETTl9eYC7wHWAeFdQGYHk3CA9",
+      "owner_id": "usr_33ETPdSD5wuylay6KZ4lGl3bBND",
       "token": null,
-      "uri": "https://api.ngrok.com/api_keys/ak_334AcxQh39vjMyFv6d6MaaskAax"
+      "uri": "https://api.ngrok.com/api_keys/ak_33ETTl9eYC7wHWAeFdQGYHk3CA9"
     },
     {
-      "created_at": "2025-09-22T18:34:13Z",
-      "description": "api key for example generation",
-      "id": "ak_334AczYKjC8YvtXRtmD83R9zOt2",
-      "owner_id": "usr_334AYsIkmQjz2Hz8mziqZ1kc26P",
+      "created_at": "2025-09-26T10:07:21Z",
+      "description": "ad-hoc dev testing",
+      "id": "ak_33ETTph1U5F3w0zsIZn9iiNz1mi",
+      "metadata": "{\"environment\":\"dev\"}",
+      "owner_id": "usr_33ETPdSD5wuylay6KZ4lGl3bBND",
       "token": null,
-      "uri": "https://api.ngrok.com/api_keys/ak_334AczYKjC8YvtXRtmD83R9zOt2"
+      "uri": "https://api.ngrok.com/api_keys/ak_33ETTph1U5F3w0zsIZn9iiNz1mi"
     }
   ],
   "next_page_uri": null,
